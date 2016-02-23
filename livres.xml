@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<livres>
+  <livre attr="hello" attr2="hello2">
+    <Titre>The Call of Cthulhu</Titre>
+    <Auteur>
+      <Nom>H.P.Lovecraft</Nom>
+      <Nationalite>américaine</Nationalite>
+    </Auteur>
+    <Langue>anglais</Langue>
+  </livre>
+  <livre>
+    <Titre>La casa de los espiritus</Titre>
+    <Auteur>
+      <Nom>Isabel Allende</Nom>
+      <Nationalite>chilienne</Nationalite>
+    </Auteur>
+    <Langue>espagnol</Langue>
+  </livre>
+  <livre>
+    <Titre>Le Horla</Titre>
+    <Auteur>
+      <Nom>Guy de Maupassant</Nom>
+      <Nationalite>française</Nationalite>
+    </Auteur>
+    <Langue>français</Langue>
+  </livre>
+  <livre>
+    <Titre>The Lord Of The Rings</Titre>
+    <Auteur>
+      <Nom>John Ronald Reuel Tolkien</Nom>
+      <Nationalite>britanique</Nationalite>
+    </Auteur>
+    <Langue>anglais</Langue>
+  </livre>
+  <livre>
+    <Titre>Crimes et châtiments</Titre>
+    <Auteur>
+      <Nom>Fedor Mikaïlovitch Dostoïevski</Nom>
+      <Nationalite>russe</Nationalite>
+    </Auteur>
+    <Langue>russe</Langue>
+  </livre>
+</livres>
