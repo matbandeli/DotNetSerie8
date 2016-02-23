@@ -1,0 +1,9 @@
+c:\users\mateli\documents\visual studio 2015\Projects\serie8_partie2\serie8_partie2\bin\Debug\serie8_partie2.exe.config
+c:\users\mateli\documents\visual studio 2015\Projects\serie8_partie2\serie8_partie2\bin\Debug\serie8_partie2.exe
+c:\users\mateli\documents\visual studio 2015\Projects\serie8_partie2\serie8_partie2\bin\Debug\serie8_partie2.pdb
+c:\users\mateli\documents\visual studio 2015\Projects\serie8_partie2\serie8_partie2\obj\Debug\serie8_partie2.csprojResolveAssemblyReference.cache
+c:\users\mateli\documents\visual studio 2015\Projects\serie8_partie2\serie8_partie2\obj\Debug\serie8_partie2.Form1.resources
+c:\users\mateli\documents\visual studio 2015\Projects\serie8_partie2\serie8_partie2\obj\Debug\serie8_partie2.Properties.Resources.resources
+c:\users\mateli\documents\visual studio 2015\Projects\serie8_partie2\serie8_partie2\obj\Debug\serie8_partie2.csproj.GenerateResource.Cache
+c:\users\mateli\documents\visual studio 2015\Projects\serie8_partie2\serie8_partie2\obj\Debug\serie8_partie2.exe
+c:\users\mateli\documents\visual studio 2015\Projects\serie8_partie2\serie8_partie2\obj\Debug\serie8_partie2.pdb
